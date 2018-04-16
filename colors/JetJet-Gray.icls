@@ -1,28 +1,28 @@
 <scheme name="JetJet-Gray" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-01-14T21:00:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-03-13T19:30:53</property>
+    <property name="modified">2018-04-16T15:52:22</property>
     <property name="originalScheme">JetJet Gray</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.8" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -1200,7 +1200,6 @@
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1211,7 +1210,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="aabebe" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
