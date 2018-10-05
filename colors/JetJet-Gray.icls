@@ -4,13 +4,13 @@
     <property name="created">2018-01-14T21:00:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-04-16T15:52:22</property>
+    <property name="modified">2018-10-05T05:46:59</property>
     <property name="originalScheme">JetJet Gray</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.8" />
+  <option name="LINE_SPACING" value="0.9" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -681,6 +681,11 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="1fed95" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -3273,11 +3278,6 @@
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-      </value>
-    </option>
-    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
