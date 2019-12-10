@@ -4,7 +4,7 @@
     <property name="created">2018-01-14T21:00:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2019-05-27T08:30:39</property>
+    <property name="modified">2019-12-10T16:46:30</property>
     <property name="originalScheme">JetJet Gray</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -531,7 +531,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -675,7 +675,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -695,7 +695,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ffd9c5" />
+        <option name="FOREGROUND" value="f1a6ed" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3639,13 +3639,6 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="232326" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
