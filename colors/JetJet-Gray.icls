@@ -4,7 +4,7 @@
     <property name="created">2018-01-14T21:00:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2019-12-10T16:46:30</property>
+    <property name="modified">2019-12-11T09:28:45</property>
     <property name="originalScheme">JetJet Gray</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -690,7 +690,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -3282,7 +3282,7 @@
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="ad92ff" />
       </value>
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
